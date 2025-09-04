@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1047069322245",
+    "project_id": "huttcor-fit",
+    "storage_bucket": "huttcor-fit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047069322245:android:6a5f062a0e22f2bfaa806c",
+        "android_client_info": {
+          "package_name": "com.example.huttcorfit_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXIF5N4wVtf1AEC8CWYxmCWEsEcs3bS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047069322245:android:84bf9917202537a9aa806c",
+        "android_client_info": {
+          "package_name": "com.huttcor.fit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXIF5N4wVtf1AEC8CWYxmCWEsEcs3bS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
